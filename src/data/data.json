@@ -1,0 +1,259 @@
+{
+  "Header": {
+    "title": "Fotografía Profesional",
+    "paragraph": "Caleb Montes de Oca"
+  },
+  "About": {
+    "paragraph": " Soy Caleb Montes de Oca tengo 27 años, soy Fotografo Profesional con mas de 6 años de experiencia en retratar experiencias y momentos unicos.",
+    "Why": [
+      "Naturaleza",
+      "Arte",
+      "Familiares",
+      "Eventos"
+    ],
+    "Why2": [
+      "Macro",
+      "Arquitectura",
+      "Mascotas",
+      "Productos"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_4295.jpg",
+      "smallImage": "img/portfolio/IMG_4295.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/IMG_4327.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/IMG_5387.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/IMG_5490.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/IMG_4916.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/IMG_5872.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/IMG_6543.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/IMG_6583.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6811.jpg",
+      "smallImage": "img/portfolio/IMG_6811.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6824.jpg",
+      "smallImage": "img/portfolio/IMG_6824.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6835.jpg",
+      "smallImage": "img/portfolio/IMG_6835.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/abeja2.jpg",
+      "smallImage": "img/portfolio/abeja2-p.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/gatita.jpg",
+      "smallImage": "img/portfolio/gatita.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5453.jpg",
+      "smallImage": "img/portfolio/IMG_5453.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5916.jpg",
+      "smallImage": "img/portfolio/IMG_5916.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6542.jpg",
+      "smallImage": "img/portfolio/IMG_6542.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_4416.jpg",
+      "smallImage": "img/portfolio/IMG_4416.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5827.jpg",
+      "smallImage": "img/portfolio/IMG_5827.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_7022.jpg",
+      "smallImage": "img/portfolio/IMG_7022.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6903.jpg",
+      "smallImage": "img/portfolio/IMG_6903.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_6897.jpg",
+      "smallImage": "img/portfolio/IMG_6897.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_7032.jpg",
+      "smallImage": "img/portfolio/IMG_7032.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_5929.jpg",
+      "smallImage": "img/portfolio/IMG_5929.jpg"
+    }, 
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/IMG_4342.jpg",
+      "smallImage": "img/portfolio/IMG_4342.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
