@@ -166,8 +166,7 @@ hr {
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
   color: #fff;
-  background-color: #5ca9fb;
-  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  background-image: linear-gradient(to right, #26883b71 0%, #4f552b6b 100%);
   padding: 14px 34px;
   letter-spacing: 1px;
   margin: 0;
@@ -184,7 +183,7 @@ hr {
 .btn-custom.active {
   color: #fff;
   background-image: none;
-  background-color: #6372ff;
+  background-color: #14141670;
 }
 .btn:active,
 .btn.active {
@@ -205,6 +204,7 @@ a:focus,
 }
 /* Header Section */
 .intro {
+  display: table;
  
   width: 100%;
   padding: 0;
@@ -246,6 +246,7 @@ header .intro-text {
 }
 /* Features Section */
 #features {
+  display: table;
   background: #f6f6f6;
 }
 #features i.fa {
@@ -262,7 +263,8 @@ header .intro-text {
 }
 /* About Section */
 #about {
-  background: url(../img/bg1.jpg) center center no-repeat;
+  background: linear-gradient(180deg, rgb(13, 41, 6) 34%, rgb(4, 48, 11) 42%, rgb(0, 0, 0) 100%);
+  
   padding: 100px 0;
   
 }
@@ -382,8 +384,8 @@ header .intro-text {
   color: #fff;
   background: linear-gradient(
     to right,
-    rgba(99, 114, 255, 0.8) 0%,
-    rgba(92, 169, 251, 0.8) 100%
+    rgba(37, 77, 52, 0.8) 0%,
+    rgba(29, 31, 32, 0.5) 100%
   );
   padding: 30% 0 0;
   height: 100%;
